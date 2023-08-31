@@ -4,12 +4,12 @@ h1{
     color: black;
 }
 body{
-    .fundosite {
+    .fundosite2 {
         width: 100px;
         height: 100px;
      }
      
      .ini {
-        background-image: url("fundosite.jpg");
+        background-image: url("fundo2.jpeg");
      }
 }
