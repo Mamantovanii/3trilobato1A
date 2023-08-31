@@ -3,14 +3,16 @@ h1{
     font-size: 100px;
     color: black;
 }
-body {
-    background-color: rgb(255, 255, 255);
- }
- .fundosite{
-    width: 100px;
-    height: 100px;
- }
- 
- .ini {
-    background-image: url("fundosite.jpg");
- }
+body{
+    .fundosite {
+        width: 100px;
+        height: 100px;
+     }
+     
+     .ini {
+        background-image: url("fundosite.jpg");
+     }
+
+
+
+}
